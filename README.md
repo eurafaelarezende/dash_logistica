@@ -18,4 +18,4 @@ Melhorias em **prazo de entrega** e **controle de devoluções** podem trazer be
 
 ## Link para Visualização
 
-Para uma melhor visualização, acesse o dashboard completo através do [link aqui]([https://lnkd.in/dJRg3GBa](https://app.powerbi.com/view?r=eyJrIjoiZjRiNDI4N2YtZTg4YS00MzIyLWE0NjQtODBhYzlhMTczMGU2IiwidCI6ImNlMTAzOWM2LWIwZTgtNGMxYy1iMDdkLWEwMGVjNjU5N2RiMSJ9)).
+Para uma melhor visualização, acesse o dashboard completo através do [link aqui](https://app.powerbi.com/view?r=eyJrIjoiZjRiNDI4N2YtZTg4YS00MzIyLWE0NjQtODBhYzlhMTczMGU2IiwidCI6ImNlMTAzOWM2LWIwZTgtNGMxYy1iMDdkLWEwMGVjNjU5N2RiMSJ9)
